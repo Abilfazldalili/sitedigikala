@@ -6,7 +6,7 @@ html,css
 <img src="./digikala/imges/screen2.png">
 
 
-<img src="./digikala/imges/screen2.png">
+<img src="./digikala/imges/screen3.png">
 
 - Developed by Abolfazl Dalili
 
